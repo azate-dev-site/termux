@@ -1,0 +1,113 @@
+{
+  "timestamp": "2025-07-30T00:55:31.358543",
+  "system_info": {
+    "system": {
+      "platform": "Linux-6.2.16-x86_64-with-glibc2.40",
+      "system": "Linux",
+      "node": "6679f854524f",
+      "release": "6.2.16",
+      "version": "#1-NixOS SMP PREEMPT_DYNAMIC Tue Jan  1 00:00:00 UTC 1980",
+      "machine": "x86_64",
+      "processor": "",
+      "architecture": [
+        "64bit",
+        ""
+      ],
+      "hostname": "6679f854524f",
+      "mac_address": "d1:46:1a:68:a0:82"
+    },
+    "cpu": {
+      "physical_cores": 4,
+      "total_cores": 8,
+      "max_frequency": "0.00Mhz",
+      "min_frequency": "0.00Mhz",
+      "current_frequency": "3050.00Mhz",
+      "cpu_usage": "30.8%"
+    },
+    "memory": {
+      "total": "62.81 GB",
+      "available": "18.16 GB",
+      "used": "43.92 GB",
+      "percentage": "71.1%"
+    },
+    "disk": {
+      "/dev/disk/by-label/nixos": {
+        "mountpoint": "/etc/hosts",
+        "file_system": "ext4",
+        "total_size": "49.12 GB",
+        "used": "29.63 GB",
+        "free": "17.42 GB",
+        "percentage": "60.3%"
+      },
+      "/dev/nbd67": {
+        "mountpoint": "/run/replit/socks",
+        "file_system": "btrfs",
+        "total_size": "32.00 GB",
+        "used": "0.00 GB",
+        "free": "31.48 GB",
+        "percentage": "0.0%"
+      },
+      "/dev/disk/by-id/google-nixmodules-b023e33-us-central1-c": {
+        "mountpoint": "/etc/nixmodules",
+        "file_system": "squashfs",
+        "total_size": "14.40 GB",
+        "used": "14.40 GB",
+        "free": "0.00 GB",
+        "percentage": "100.0%"
+      },
+      "/dev/nbd152": {
+        "mountpoint": "/nix/var",
+        "file_system": "btrfs",
+        "total_size": "256.00 GB",
+        "used": "0.02 GB",
+        "free": "253.97 GB",
+        "percentage": "0.0%"
+      }
+    },
+    "network": {
+      "lo": [],
+      "eth0": []
+    },
+    "boot_time": "2025/7/29 14:32:25"
+  },
+  "public_ip": "34.136.52.49",
+  "ip_location": {
+    "country": "United States",
+    "region": "Iowa",
+    "city": "Council Bluffs",
+    "zip": "",
+    "latitude": 41.2619,
+    "longitude": -95.8608,
+    "timezone": "America/Chicago",
+    "isp": "Google LLC"
+  },
+  "gps_location": {
+    "primary_location": {
+      "latitude": 41.2619,
+      "longitude": -95.8608,
+      "address": "Council Bluffs, Iowa, US",
+      "method": "Geocoder IP",
+      "accuracy": "City level"
+    },
+    "alternative_locations": [
+      {
+        "latitude": 41.2619,
+        "longitude": -95.8608,
+        "address": "Council Bluffs, Iowa, United States",
+        "method": "IP-API Service",
+        "accuracy": "Unknown",
+        "isp": "Google LLC",
+        "timezone": "America/Chicago"
+      },
+      {
+        "latitude": 41.2324,
+        "longitude": -95.8751,
+        "address": "Council Bluffs, Iowa, United States",
+        "method": "IPAPI Service",
+        "accuracy": "ISP level",
+        "org": "GOOGLE-CLOUD-PLATFORM"
+      }
+    ],
+    "total_methods": 3
+  }
+}
