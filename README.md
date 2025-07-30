@@ -23,7 +23,7 @@ pkg install python git
 
 2. Cloner le repository :
 ```bash
-git clone https://github.com/[votre-username]/dedsec-device-info.git
+git clone https://github.com/azate-dev-site/termux.git
 cd dedsec-device-info
 ```
 
