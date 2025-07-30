@@ -36,8 +36,8 @@ python device_info.py
 
 1. Cloner le repository :
 ```bash
-git clone https://github.com/[votre-username]/dedsec-device-info.git
-cd dedsec-device-info
+git clone https://github.com/azate-dev-site/termux.git
+cd termux
 ```
 
 2. Les dépendances Python sont installées automatiquement au premier lancement
@@ -51,7 +51,7 @@ python device_info.py
 
 ### Animation DedSec
 ```bash
-python Dedsec.py
+
 ```
 
 ## 📋 Dépendances
